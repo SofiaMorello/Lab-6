@@ -1,4 +1,4 @@
-# Contributor Covenant Code of Conduct
+# Contributor Covenant Code of Conduct --> taken from Coraline Ada Ehmke
 
 ## Our Pledge
 
