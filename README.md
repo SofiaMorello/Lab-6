@@ -6,7 +6,7 @@ Group Members: Sofia Morello, Michelle Star, Van Huynh
 How to access software:
 <br /> open a terminal in jupyterhub and input:
 'git clone' https://github.com/SofiaMorello/Lab-6.git
-This should create a file 
+<br />This should create a file 
 
 To Contribute
 1. Fork our code 
