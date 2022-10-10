@@ -1,7 +1,11 @@
 # Lab-6
 Lab 6 repository 
  This program takes your name and asks you to input your age and it outputs your name and age!
-Group Members: Sofia Morello, Michelle Star, Van Huynh
+
+# Group Members: 
+1. Sofia Morello
+2. Michelle Star
+3. Van Huynh
 
 # How to access software:
 1. open a terminal in jupyterhub and input:
