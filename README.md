@@ -11,3 +11,5 @@ How to access software:
 To Contribute
 1. Fork our code 
 2. To add to this program please use git hub and send a pull request and the owner will decide whether to accept the request.
+
+#Miscellany
